@@ -2,7 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
-    <system:String x:Key="wox_plugin_caculator_plugin_name">Rekenmachine</system:String>
+    <system:String x:Key="wox_plugin_caculator_plugin_name">Calculator</system:String>
     <system:String x:Key="wox_plugin_caculator_plugin_description">Voorzie Wox van wiskundige berekeningen(Probeer 5*3-2 in Wox)</system:String>
     
 </ResourceDictionary>
